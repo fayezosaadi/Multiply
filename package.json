@@ -1,0 +1,14 @@
+{
+  "name": "multiply",
+  "version": "1.0.0",
+  "description": "A simple multiply application",
+  "main": "multiply.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "fayezosaadi",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
