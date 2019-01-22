@@ -6,3 +6,9 @@ A simple multiplication application without using loops, multiply operator or di
 1.  clone this repository.
 2.  Install dependencies: `npm install` or `npm i` for short.
 3.  run `npm test` to run the tests
+
+
+## Dependencies & Troubleshooting
+
+Dependencies:
+* Node 5.10.x or above
